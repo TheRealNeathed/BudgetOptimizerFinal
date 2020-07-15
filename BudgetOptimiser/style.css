@@ -1,0 +1,49 @@
+html{
+    margin:200px;
+    padding:200px;
+    background-color: aqua
+    
+
+
+}
+h1{
+    padding-left:500px;
+    padding-right:500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-color:black;
+    background-color:royalblue;
+    display: flex;
+    justify-content: space-between;
+    margin:30px;
+
+}
+.investcolor{
+
+    color:red
+}
+var{
+    color:red;
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    scale:0.5;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    scale:0.5;
+}
+
+.button{
+
+    background-color: lime;
+    font-size: 20px;
+
+
+}
+
+h5{
+
+    font-style:italic;
+}
+
